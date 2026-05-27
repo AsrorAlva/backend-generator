@@ -156,4 +156,15 @@ DB_PORT=3306
 
 ---
 
+## Future Improvements
+
+* Exam timer
+* AI question generation
+* Question import via Excel
+* Exam analytics dashboard
+* Role permission system
+* Realtime monitoring
+
+---
+
 
